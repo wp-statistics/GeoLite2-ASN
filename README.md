@@ -1,6 +1,8 @@
 # GeoLite2-ASN (MaxMind.com) CDN files
 
-GeoLite2-ASN.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/) 
+GeoLite2-ASN.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/)
+
+#### Last updated: 2023-01-06
 
 ## Download link
 ```
