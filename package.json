@@ -1,6 +1,6 @@
 {
   "name": "geolite2-asn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "GeoLite2-ASN.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/)",
   "scripts": {
     "test": ""
