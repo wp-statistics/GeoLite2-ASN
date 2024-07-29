@@ -6,7 +6,7 @@ GeoLite2-ASN.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https:/
 
 ## Download link
 ```
-https://cdn.jsdelivr.net/npm/geolite2-asn@1.0.0/GeoLite2-ASN.mmdb.gz
+https://cdn.jsdelivr.net/npm/geolite2-asn/GeoLite2-ASN.mmdb.gz
 ```
 
 ## Source
