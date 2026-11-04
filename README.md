@@ -16,3 +16,5 @@ https://cdn.jsdelivr.net/npm/geolite2-asn/
 
 ## License
 [Creative Commons Corporation Attribution-ShareAlike 4.0 International License (the "Creative Commons License")](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Use of the data is governed by the [GeoLite End User License Agreement](https://www.maxmind.com/en/geolite2/eula), which incorporates CC BY-SA 4.0. See [NOTICE](NOTICE).
